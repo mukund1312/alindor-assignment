@@ -1,0 +1,18 @@
+At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Data Intelligence platform. As a Customer Data Engineer (Technical Services Engineer), you will play a critical role in advising Customers in their onboarding journey. You will directly work with customers to help them onboard and deploy Databricks in their Production environment.
+
+The impact you will have
+
+You will ensure new customers have an excellent experience by providing them with technical assistance early in their journey.
+You will become an expert on the Databricks Platform and guide customers in making the best technical decisions to achieve their goals.
+You will work on multiple tactical customers to track and report their progress.
+What we look for
+
+Undergraduate degree or higher in Computer Science, Information Systems, or relevant experience
+Experience in a technical role, preferably in the data or cloud field.
+Knowledge of at least one of the public cloud platforms AWS, Azure, or GCP is required.
+Knowledge of a programming language - Python, Scala, or SQL
+Knowledge of end-to-end data analytics workflow
+Hands-on professional or academic experience in one or more of the following:
+Excellent time management and prioritization skills
+Excellent written and verbal communication
+Bonus - Knowledge of Data Science and Machine Learning (e.g., build and deploy ML Models)
